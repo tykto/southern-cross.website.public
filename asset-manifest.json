@@ -1,14 +1,11 @@
 {
-  "main.css": "/southern-cross.website.public/static/css/main.4914dbd5.chunk.css",
-  "main.js": "/southern-cross.website.public/static/js/main.0d54644b.chunk.js",
-  "main.js.map": "/southern-cross.website.public/static/js/main.0d54644b.chunk.js.map",
-  "static/js/1.2dd891c4.chunk.js": "/southern-cross.website.public/static/js/1.2dd891c4.chunk.js",
-  "static/js/1.2dd891c4.chunk.js.map": "/southern-cross.website.public/static/js/1.2dd891c4.chunk.js.map",
+  "main.js": "/southern-cross.website.public/static/js/main.a1fc752d.chunk.js",
+  "main.js.map": "/southern-cross.website.public/static/js/main.a1fc752d.chunk.js.map",
+  "static/js/1.0610d8cd.chunk.js": "/southern-cross.website.public/static/js/1.0610d8cd.chunk.js",
+  "static/js/1.0610d8cd.chunk.js.map": "/southern-cross.website.public/static/js/1.0610d8cd.chunk.js.map",
   "runtime~main.js": "/southern-cross.website.public/static/js/runtime~main.ae2c7b90.js",
   "runtime~main.js.map": "/southern-cross.website.public/static/js/runtime~main.ae2c7b90.js.map",
-  "static/media/logo.svg": "/southern-cross.website.public/static/media/logo.5d5d9eef.svg",
-  "static/css/main.4914dbd5.chunk.css.map": "/southern-cross.website.public/static/css/main.4914dbd5.chunk.css.map",
   "index.html": "/southern-cross.website.public/index.html",
-  "precache-manifest.5a8594920ab8038cd8a3776db0729bf9.js": "/southern-cross.website.public/precache-manifest.5a8594920ab8038cd8a3776db0729bf9.js",
+  "precache-manifest.c91c23dc08202d83aa37711bf4c8fa2e.js": "/southern-cross.website.public/precache-manifest.c91c23dc08202d83aa37711bf4c8fa2e.js",
   "service-worker.js": "/southern-cross.website.public/service-worker.js"
 }
