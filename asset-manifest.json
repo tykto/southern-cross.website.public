@@ -1,12 +1,16 @@
 {
-  "main.js": "/southern-cross.website.public/static/js/main.0cc66e44.chunk.js",
-  "main.js.map": "/southern-cross.website.public/static/js/main.0cc66e44.chunk.js.map",
-  "static/js/1.73e0c1bb.chunk.js": "/southern-cross.website.public/static/js/1.73e0c1bb.chunk.js",
-  "static/js/1.73e0c1bb.chunk.js.map": "/southern-cross.website.public/static/js/1.73e0c1bb.chunk.js.map",
+  "main.js": "/southern-cross.website.public/static/js/main.5aa01749.chunk.js",
+  "main.js.map": "/southern-cross.website.public/static/js/main.5aa01749.chunk.js.map",
+  "static/css/1.de5ca3d6.chunk.css": "/southern-cross.website.public/static/css/1.de5ca3d6.chunk.css",
+  "static/js/1.889cf83f.chunk.js": "/southern-cross.website.public/static/js/1.889cf83f.chunk.js",
+  "static/js/1.889cf83f.chunk.js.map": "/southern-cross.website.public/static/js/1.889cf83f.chunk.js.map",
   "runtime~main.js": "/southern-cross.website.public/static/js/runtime~main.ae2c7b90.js",
   "runtime~main.js.map": "/southern-cross.website.public/static/js/runtime~main.ae2c7b90.js.map",
-  "static/media/image.jpg": "/southern-cross.website.public/static/media/image.34dfeed2.jpg",
+  "static/media/index.css": "/southern-cross.website.public/static/media/roboto-latin-900italic.7b770d6c.woff2",
+  "static/media/logo.png": "/southern-cross.website.public/static/media/logo.1db70d34.png",
+  "static/media/image.jpg": "/southern-cross.website.public/static/media/image.bcf5c59f.jpg",
+  "static/css/1.de5ca3d6.chunk.css.map": "/southern-cross.website.public/static/css/1.de5ca3d6.chunk.css.map",
   "index.html": "/southern-cross.website.public/index.html",
-  "precache-manifest.8ca9044695a58647204f0d87f7654283.js": "/southern-cross.website.public/precache-manifest.8ca9044695a58647204f0d87f7654283.js",
+  "precache-manifest.f0e405f5af08ec319e9183a3b96303b7.js": "/southern-cross.website.public/precache-manifest.f0e405f5af08ec319e9183a3b96303b7.js",
   "service-worker.js": "/southern-cross.website.public/service-worker.js"
 }
