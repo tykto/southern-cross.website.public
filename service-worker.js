@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/southern-cross.website.public/precache-manifest.7ff08b002903a3a8a29505b376007e6a.js"
+  "/southern-cross.website.public/precache-manifest.2657866d83d54055a68abb50a2c2b9cc.js"
 );
 
 workbox.clientsClaim();
