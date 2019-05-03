@@ -1,3 +1,8 @@
+h2 {
+    color: #00247D;
+}
+
+
 .hero {
     min-height: 600px;
     background: url("../images/hero.jpg") no-repeat center center;
