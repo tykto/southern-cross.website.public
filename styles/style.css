@@ -1,7 +1,11 @@
 h2 {
     color: #00247D;
+    font-size: 2.5rem;
 }
 
+a:hover {
+    text-decoration: none;
+}
 
 .hero {
     min-height: 600px;
@@ -13,7 +17,7 @@ h2 {
 .tagline {
     padding-right: 20px;
     padding-bottom: 20px;
-    color: #ffffff;
+    color: #FFA401;
     font-family: 'Caveat', cursive;
     font-size: 2rem;
 }
@@ -47,11 +51,34 @@ h2 {
     }
 }
 
+.services .fa-check {
+    color: #FFA401;
+}
+
+.contact {
+    background-color: rgba(255, 164, 1, 0.5);
+}
+
 .contact-info {
     list-style: none;
     padding: 0;
 }
 
+.contact-info .fa-phone, .contact-info .fa-envelope, .suburbs .fa-map-marker-alt {
+    color: #00247D;
+}
+
 .footer {
     font-size: 0.8rem;
+    color: #ffffff;
+    background-color: rgba(0, 36, 125, 0.5);
+}
+
+.footer a {
+    color: #ffffff;
+}
+
+.footer a:hover {
+    color: #ffffff;
+    font-weight: 500;
 }
