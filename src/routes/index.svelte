@@ -1,5 +1,4 @@
 <script type="ts">
-  import '../style/all';
 </script>
 
 <style>
