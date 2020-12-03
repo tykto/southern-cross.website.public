@@ -1,4 +1,5 @@
 <script type="ts">
+  import imageUrl from './image.jpg';
 </script>
 
 <style>
@@ -8,7 +9,7 @@
 </style>
 
 <div class="card">
-  <img src="images/before-after.jpg" class="card-img-top" alt="Rubbish Removal" />
+  <img src={imageUrl} class="card-img-top" alt="Rubbish Removal" />
   <div class="card-body">
     <h5 class="card-title">What we do</h5>
     <p>

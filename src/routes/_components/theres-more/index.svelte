@@ -1,4 +1,5 @@
 <script type="ts">
+  import imageUrl from './image.jpg';
 </script>
 
 <style>
@@ -8,7 +9,7 @@
 </style>
 
 <div class="card">
-  <img src="images/bobcat.jpg" class="card-img-top" alt="..." />
+  <img src={imageUrl} class="card-img-top" alt="..." />
   <div class="card-body">
     <h5 class="card-title">There's more</h5>
     <ul class="fa-ul">

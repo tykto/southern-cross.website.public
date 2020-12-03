@@ -1,10 +1,11 @@
 <script type="ts">
+  import backgroundUrl from './background.jpg';
 </script>
 
 <style>
   div {
     min-height: 600px;
-    background: url('/images/hero.jpg') no-repeat center center;
+    background: var(--background-url) no-repeat center center;
     background-size: cover;
     margin-top: -186px;
   }
@@ -41,6 +42,6 @@
   }
 </style>
 
-<div class="d-flex justify-content-end align-items-end">
+<div class="d-flex justify-content-end align-items-end" style="--background-url:url({backgroundUrl})">
   <h3>Call Andrew for a free quote</h3>
 </div>

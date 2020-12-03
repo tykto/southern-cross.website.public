@@ -1,11 +1,12 @@
 <script type="ts">
+  import imageUrl from './image.jpg';
 </script>
 
 <style>
 </style>
 
 <div class="card">
-  <img src="images/trucks.jpg" class="card-img-top" alt="Trucks" />
+  <img src={imageUrl} class="card-img-top" alt="Trucks" />
   <div class="card-body">
     <h5 class="card-title">Our Approach</h5>
     <p class="card-text">
