@@ -1,6 +1,3 @@
-<script type="ts">
-</script>
-
 <style>
   div {
     font-size: 0.8rem;

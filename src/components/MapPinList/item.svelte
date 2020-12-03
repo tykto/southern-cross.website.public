@@ -1,6 +1,3 @@
-<script type="ts">
-</script>
-
 <style>
   .fa-map-marker-alt {
     color: #00247d;
