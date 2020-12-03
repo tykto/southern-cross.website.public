@@ -16,18 +16,3 @@ a:hover {
 .contact {
   background-color: rgba(255, 164, 1, 0.5);
 }
-
-.footer {
-  font-size: 0.8rem;
-  color: #ffffff;
-  background-color: rgba(0, 36, 125, 0.5);
-}
-
-.footer a {
-  color: #ffffff;
-}
-
-.footer a:hover {
-  color: #ffffff;
-  font-weight: 500;
-}
