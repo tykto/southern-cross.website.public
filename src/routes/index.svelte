@@ -27,8 +27,11 @@
 </style>
 
 <svelte:head>
+  <meta name="description" content="Rubbish removal" />
+  <meta name="author" content="Southern Cross Rubbish Removal" />
+  <meta name="keywords" content="Rubbish removal" />
+  <meta name="robots" content="index, follow" />
   <title>Southern Cross :: Rubbish Removal</title>
-  <link rel="stylesheet" href="styles/bootstrap.min.css" />
 </svelte:head>
 
 <Nav />
