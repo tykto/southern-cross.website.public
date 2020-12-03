@@ -2,6 +2,9 @@
 </script>
 
 <style>
+  .fa-check {
+    color: #ffa401;
+  }
 </style>
 
 <div class="card">

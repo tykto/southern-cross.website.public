@@ -4,7 +4,7 @@
   import OurApproachCard from './_components/our-approach-card.svelte';
   import WhatWeDoCard from './_components/what-we-do-card.svelte';
   import TheresMoreCard from './_components/theres-more-card.svelte';
-  import Contact from './_components/contact.svelte';
+  import ContactInfo from './_components/contact-info.svelte';
   import Map from './_components/map.svelte';
   import Footer from './_components/footer.svelte';
 </script>
@@ -33,7 +33,7 @@
   <h2 class="pb-3">Contact</h2>
   <div class="container">
     <div class="row">
-      <Contact />
+      <ContactInfo />
       <Map />
     </div>
   </div>
