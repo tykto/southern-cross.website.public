@@ -21,17 +21,6 @@ a:hover {
   background-color: rgba(255, 164, 1, 0.5);
 }
 
-.contact-info {
-  list-style: none;
-  padding: 0;
-}
-
-.contact-info .fa-phone,
-.contact-info .fa-envelope,
-.suburbs .fa-map-marker-alt {
-  color: #00247d;
-}
-
 .footer {
   font-size: 0.8rem;
   color: #ffffff;

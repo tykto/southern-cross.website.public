@@ -2,6 +2,16 @@
 </script>
 
 <style>
+  .contact-info {
+    list-style: none;
+    padding: 0;
+  }
+
+  .fa-phone,
+  .fa-envelope,
+  .fa-map-marker-alt {
+    color: #00247d;
+  }
 </style>
 
 <div class="col-sm">
