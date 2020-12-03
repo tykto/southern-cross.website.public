@@ -1,5 +1,5 @@
 <script type="ts">
-  import CheckList from '../check-list.svelte';
+  import CheckList from '../CheckList/index.svelte';
   import imageUrl from './image.jpg';
 
   const items = [

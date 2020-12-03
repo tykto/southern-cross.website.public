@@ -1,5 +1,5 @@
 <script type="ts">
-  import CheckListItem from './map-pin-list-item.svelte';
+  import CheckListItem from './item.svelte';
   export let items = [];
 </script>
 

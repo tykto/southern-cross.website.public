@@ -1,4 +1,5 @@
 import path from 'path';
+import aliasFactory from '@rollup/plugin-alias';
 import resolve from '@rollup/plugin-node-resolve';
 import replace from '@rollup/plugin-replace';
 import commonjs from '@rollup/plugin-commonjs';
@@ -21,6 +22,8 @@ const onwarn = (warning, onwarn) =>
   warning.code === 'THIS_IS_UNDEFINED' ||
   onwarn(warning);
 
+const alias = aliasFactory({ entries: [{ find: '@app', replacement: path.resolve(__dirname, 'src') + '/' }] });
+
 export default {
   client: {
     input: config.client.input().replace(/\.js$/, '.ts'),
@@ -30,6 +33,7 @@ export default {
         'process.browser': true,
         'process.env.NODE_ENV': JSON.stringify(mode),
       }),
+      alias,
       svelte({
         dev,
         hydratable: true,
@@ -89,6 +93,7 @@ export default {
         'process.browser': false,
         'process.env.NODE_ENV': JSON.stringify(mode),
       }),
+      alias,
       svelte({
         generate: 'ssr',
         hydratable: true,

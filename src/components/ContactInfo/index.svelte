@@ -1,7 +1,7 @@
 <script type="ts">
   let rootClass = '';
   export { rootClass as class };
-  import MapPinList from './map-pin-list.svelte';
+  import MapPinList from '@app/components/MapPinList';
 
   const items = [
     'Bayswater',
