@@ -4,9 +4,9 @@
   import Hero from './_components/hero/index.svelte';
   import Map from './_components/map/index.svelte';
   import Nav from './_components/nav/index.svelte';
-  import OurApproach from './_components/our-approach/index.svelte';
-  import TheresMore from './_components/theres-more/index.svelte';
-  import WhatWeDo from './_components/what-we-do/index.svelte';
+  import OurApproachCard from './_components/our-approach-card/index.svelte';
+  import TheresMoreCard from './_components/theres-more-card/index.svelte';
+  import WhatWeDoCard from './_components/what-we-do-card/index.svelte';
 </script>
 
 <style>
@@ -39,9 +39,9 @@
 <div class="d-flex flex-column align-items-center pt-5 pb-5 px-3">
   <h2 class="pb-3">Services</h2>
   <div class="card-deck">
-    <OurApproach />
-    <WhatWeDo />
-    <TheresMore />
+    <OurApproachCard />
+    <WhatWeDoCard />
+    <TheresMoreCard />
   </div>
   <h5 class="pt-3">We are fully insured for your peace of mind</h5>
 </div>
@@ -49,8 +49,8 @@
   <h2 class="pb-3">Contact</h2>
   <div class="container">
     <div class="row">
-      <ContactInfo />
-      <Map />
+      <ContactInfo class="col-sm" />
+      <Map class="col-sm" />
     </div>
   </div>
 </div>
