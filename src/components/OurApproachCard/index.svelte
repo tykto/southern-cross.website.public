@@ -2,9 +2,6 @@
   import imageUrl from './image.jpg';
 </script>
 
-<style>
-</style>
-
 <div class="card">
   <img src={imageUrl} class="card-img-top" alt="Trucks" />
   <div class="card-body">

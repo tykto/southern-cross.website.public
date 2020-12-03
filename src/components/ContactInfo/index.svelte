@@ -1,25 +1,13 @@
 <script type="ts">
+  import MapPinList from '@app/components/MapPinList';
+  import { items } from './items';
+
   let rootClass = '';
   export { rootClass as class };
-  import MapPinList from '@app/components/MapPinList';
-
-  const items = [
-    'Bayswater',
-    'Boronia',
-    'Chirnside Park',
-    'Croydon',
-    'Ferntree Gully',
-    'Kilsyth',
-    'Lilydale',
-    'Mooroolbark',
-    'Montrose',
-    'Ringwood',
-    'Wantirna',
-  ];
 </script>
 
 <style>
-  .info {
+  .t-info {
     list-style: none;
     padding: 0;
   }
@@ -32,7 +20,7 @@
 
 <div class={rootClass}>
   <h6>For all inquiries call, text or email Andrew</h6>
-  <ul class="info fa-ul">
+  <ul class="t-info fa-ul">
     <li><span class="fa-li"><i class="fas fa-phone" /></span>0408 242 015</li>
     <li><span class="fa-li"><i class="fas fa-envelope" /></span>southerncrossrubbishremovals@gmail.com</li>
   </ul>

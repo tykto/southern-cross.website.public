@@ -15,7 +15,7 @@
     font-size: 2.5rem;
   }
 
-  .contact {
+  .t-contact {
     background-color: rgba(255, 164, 1, 0.5);
   }
 
@@ -37,7 +37,7 @@
   </div>
   <h5 class="pt-3">We are fully insured for your peace of mind</h5>
 </div>
-<div class="contact d-flex flex-column align-items-center py-5">
+<div class="t-contact d-flex flex-column align-items-center py-5">
   <h2 class="pb-3">Contact</h2>
   <div class="container">
     <div class="row">
