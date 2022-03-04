@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'Caveat';
+  }
+}

@@ -1,5 +1,5 @@
 <script type="ts">
-  import HomePage from '@app/pages/Home';
+  import HomePage from '$lib/pages/Home';
 </script>
 
 <HomePage />
